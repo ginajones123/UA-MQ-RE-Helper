@@ -146,7 +146,7 @@ Never commit secrets to GitHub.
 ### 6. Run the app
 
 ```bash
-streamlit run MQ-RE_api_AI-VERDE.py
+streamlit run app.py
 ```
 
 ## Example workflow
